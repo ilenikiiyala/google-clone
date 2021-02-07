@@ -1,6 +1,7 @@
 # google-clone by Ileni Kiiyala
 
 This project is a React JS-powered clone of the world's most popular search engine, Google.
+View LIVE Build Here: https://clone-ad6d9.web.app/
 
 ## Tech Stack
 
@@ -15,7 +16,7 @@ Some of these technologies include:
 
 3. DiceBear Avatars
    - provides me an API which generates animated user icons as a placeholder for users' profile icon on the actual Google engine
-   - I make use of the 'useState' and 'useEffect' hooks for this feature
+   - I make use of the 'useState' and 'useEffect' hooks for this feature (notice everytime you refresh it generates new icon)
      
 3. Material-UI
    - this icon library allows me to effortlessly import (and customize) the actual icons used by Google's front-end developers
